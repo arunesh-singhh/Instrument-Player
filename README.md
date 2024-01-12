@@ -1,4 +1,4 @@
-## Drum Kit-     
+# Drum Kit   
 This Drum Kit project is a simple web-based application that allows users to play drum sounds by either clicking on the displayed drum images or by pressing specific keys on their keyboard.
 
 # Hosted Link
